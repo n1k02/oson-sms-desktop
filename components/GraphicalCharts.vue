@@ -16,7 +16,7 @@
 </template>
 
 <script setup>
-import SmsCountChart from './charts/SmsCountChart.vue';
+import SmsCountChart from './charts/SMSCountChart.vue';
 import PieChart from './charts/PieChart.vue';
 import YearComparisonChart from './charts/YearComparisonChart.vue';
 
